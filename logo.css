@@ -12,7 +12,7 @@
 }
 
 .INFORMASI{
-  font-size: 32px;
+  font-size: 30px;
 }
 .burger {
   position: relative;
@@ -49,6 +49,11 @@
   top: 50%;
   transform: translateY(-50%);
   transform-origin: left center;
+}
+. image.kiri{
+  float: left;
+    margin: 5px;
+ 
 }
 
 .burger span:nth-of-type(3) {
